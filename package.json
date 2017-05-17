@@ -1,0 +1,14 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Ahmad Abdulaziz\u001b[D\u001b[D\u001b[-Az\u001b[C\u001b[Diz\u001b[C",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
