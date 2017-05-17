@@ -1,0 +1,14 @@
+{
+  "name": "findminmax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Ahmad Abdul-Aziz",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
